@@ -1,0 +1,8 @@
+{
+  "open": true,
+  "versionCode": 124,
+  "appHint":"由于某些原因，本App暂时关闭，再次开启使用时会在QQ群中通知",
+  "openAd":true,
+  "rewardHint":"撸码不易，各位童鞋可以打赏一波鼓励鼓励，不管打赏多少，你们的行动就是我的动力，谢谢各位！",
+  "rewardNum":1
+}
