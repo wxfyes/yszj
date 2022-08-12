@@ -159,7 +159,7 @@
     {
     "id": 26,
     "name": "丝袜资源X",
-    "api": "https://siwazyw.cc/api.php/provide/vod/at/json",
+    "api": "https://siwazyw.cc/api.php/provide/vod/at/xml",
     "click": false,
     "searchFilter": false
     }
